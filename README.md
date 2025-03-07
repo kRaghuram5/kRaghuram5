@@ -1,8 +1,8 @@
 <div align="center">
   <h1>
-    <img src="https://img.shields.io/badge/-RAGHURAM-blue?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-K_RAGHURAM-blue?style=for-the-badge&logo=github&logoColor=white" />
   </h1>
-  <h3>💡 Passionate Data Analyst | Backend Dev Enthusiast 💻</h3>
+  <h3>💡 Passionate Data Engineer | Backend Dev Enthusiast 💻</h3>
   <h4>🚀 "Turning raw data into meaningful insights, one line of code at a time!" 📊</h4>
 </div>
 <p align="left"> 
