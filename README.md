@@ -27,8 +27,7 @@ name: K Raghuram
 role: Data Engineer | Backend Dev | Blockchain Builder
 education: Computer Science Enthusiast
 location: India
-habits: [ "DSA Daily 🔥" ]
-interests: [ "Machine Learning", "Blockchain", "Data Engineering", "Backend Dev", "Open Source" ]
+interests: [ "DSA🔥", "Machine Learning", "Blockchain", "Data Engineering", "Backend Dev", "Open Source" ]
 fun_fact: "I debug with print statements and I'm not ashamed 😄"
 ```
 
