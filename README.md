@@ -54,30 +54,6 @@ fun_fact: "I debug with print statements and I'm not ashamed 😄"
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kraghuram5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=C9D1D9" alt="stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraghuram5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=C9D1D9" alt="languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kraghuram5&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7&hide_current_streak=true" alt="streak" />
-</div>
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kraghuram5&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-</div>
-
----
-
 <!-- Connect -->
 ## 🤝 &nbsp;Connect With Me
 
@@ -97,17 +73,6 @@ fun_fact: "I debug with print statements and I'm not ashamed 😄"
   <a href="mailto:raghuram1182005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kraghuram5/kraghuram5/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kraghuram5/kraghuram5/output/github-snake.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/kraghuram5/kraghuram5/output/github-snake.svg" />
-  </picture>
 </div>
 
 <br/>
