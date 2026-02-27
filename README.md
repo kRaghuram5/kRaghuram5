@@ -20,7 +20,9 @@
 <!-- About Me -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;About Me
 
-<img align="right" height="170" src="github.gif" />
+<table>
+  <tr>
+    <td>
 
 ```yaml
 name: K Raghuram
@@ -31,7 +33,12 @@ interests: [ "DSA🔥", "Machine Learning", "Open Source", "Backend Dev", "Block
 fun_fact: "I debug with print statements and I'm not ashamed 😄"
 ```
 
-<br clear="right"/>
+</td>
+    <td>
+      <img height="170" src="github.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
